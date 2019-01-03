@@ -2,6 +2,12 @@
 
 A typescript utility to give a sequential feel to asyncronous/reactive programming patterns.
 
+## Installation
+
+```sh
+$ npm install waitfor.ts
+```
+
 ## What it does
 
 You provide the class with a resolver function and another function that you wish to fire once resolved, the class will periodically attempt to resolve this function and, once resolved, will fire the intended function.
