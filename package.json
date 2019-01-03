@@ -1,6 +1,6 @@
 {
   "name": "waitfor.ts",
-  "version": "1.0.0",
+  "version": "0.5.0",
   "description": "Sequential programming made easy thru typescript decorators.",
   "main": "src/index.js",
   "scripts": {
