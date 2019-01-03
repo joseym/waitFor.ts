@@ -2,6 +2,8 @@
 
 A typescript utility to give a sequential feel to asyncronous/reactive programming patterns.
 
+[API Documentation](https://joseym.github.io/waitFor.ts/classes/waitfor.html)
+
 ## Installation
 
 ```sh
