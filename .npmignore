@@ -1,0 +1,13 @@
+tests
+typings
+coverage
+.vscode
+lcov.info
+tsconfig.json
+typings.json
+.nyc_output
+.gitignore
+.npmignore
+yarn.lock
+tslint.json
+package-lock.json

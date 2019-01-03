@@ -1,0 +1,19 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint-config-airbnb"
+    ],
+    
+    "jsRules": {},
+    "rules": {
+      "ter-arrow-parens": false,
+      "trailing-comma": false,
+      "max-line-length": {
+        "options": [180],
+        "severity": "warn"
+      },
+      "align": false,
+      "variable-name": [true, "allow-leading-underscore"]
+    },
+    "rulesDirectory": []
+}

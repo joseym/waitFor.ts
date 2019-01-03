@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "baseUrl": "./../src/",
+    "target": "ESNext",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noImplicitThis": false,
+    "noUnusedParameters": false,
+    "noUnusedLocals": false,
+    "experimentalDecorators": true,
+    "allowJs": false
+  },
+  "exclude": [
+    "node_modules",
+    "tests"
+  ]
+}
